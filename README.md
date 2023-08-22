@@ -4,7 +4,9 @@ To evaluate whether agressive discounting is beneficial in the long-run.
 
 ## Overview 
 Eniac's board noticed that the last quarter's increasing sales volume did not translate to higher revenue.
+
   _Marketing_: Believes that discounts are beneficial in the long-run for customer acquisition and retention.
+  
   _Board_: Is concerned that their positioning as a premium quality provider is compromised by agressive discounts.
 
 ## Context
