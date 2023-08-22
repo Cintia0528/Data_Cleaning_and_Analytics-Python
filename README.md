@@ -24,8 +24,9 @@ Evaluate the database:
 5. Note recommendations; how to improve data collection and further research questions
 
 ## Deliverables
-5 minute PowerPoint presentation found [here](https://drive.google.com/file/d/1pi3bMzv7sUl4BDP809HX1JG2WO2Z51bK/view?usp=sharing) to the Board of Directors, that summarizes the findings and suggests a course of action.
-Colab code is found [here](https://github.com/Cintia0528/Data-Cleaning-and-Analysis-with-Python.git). 
+5 minute **PowerPoint presentation** found [here](https://drive.google.com/file/d/1pi3bMzv7sUl4BDP809HX1JG2WO2Z51bK/view?usp=sharing) to the Board of Directors, that summarizes the findings and suggests a course of action.
+**Python code** is found [here](https://github.com/Cintia0528/Data-Cleaning-and-Analysis-with-Python.git).
+
 ### Colab Files
   1. Files starting with 2 are the data cleaning files, each table its own file
   2. Files starting with 3 are the data quality files
@@ -34,5 +35,5 @@ Colab code is found [here](https://github.com/Cintia0528/Data-Cleaning-and-Analy
 ## Skills & Tools
 1. Data Cleaning & Quality Assurance
 2. Data Visualization & Storytelling
-3. Colab
+3. Colab & Jupyter Notebook
 4. Python: Pandas, Seaborn, Matplotlib
