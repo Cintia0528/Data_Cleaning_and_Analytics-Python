@@ -24,7 +24,7 @@ Evaluate the database:
 5. Note recommendations; how to improve data collection and further research questions
 
 ## Deliverables
-5 minute **PowerPoint presentation** found [here](https://drive.google.com/file/d/1pi3bMzv7sUl4BDP809HX1JG2WO2Z51bK/view?usp=sharing) to the Board of Directors, that summarizes the findings and suggests a course of action.
+5 minute **PowerPoint presentation** found [here](https://drive.google.com/file/d/1v3fMzSTz0JX0YVLydWhl2BjVN6A2yels/view?usp=sharing) to the Board of Directors, that summarizes the findings and suggests a course of action.
 **Python code** is found [here](https://github.com/Cintia0528/Data-Cleaning-and-Analysis-with-Python.git).
 
 ### Colab Files
